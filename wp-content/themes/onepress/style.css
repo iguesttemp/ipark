@@ -818,10 +818,10 @@ Footer widgets
   display: none;
 }
 .is-transparent .site-header.no-scroll #nav-toggle span {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .is-transparent .site-header.no-scroll #nav-toggle span::before, .is-transparent .site-header.no-scroll #nav-toggle span::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .is-transparent .site-header.no-scroll #nav-toggle.nav-is-visible span {
   background-color: transparent;
